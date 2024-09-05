@@ -16,8 +16,6 @@ I created a pie chart to display the sum of exercise hours per week by diet. Ens
 
 Table:-
 
-Table:-
-
 I created a table to display patient ID by age, sex, sum of cholesterol, blood pressure, and sum of smoking. The table provides a clear and organised way to view detailed data on smoking blood pressure cholesterol by patient ID. Through this table, users easily identify each patient ID-wise, check cholesterol, blood pressure, and smoking.
 
 slicer:-
