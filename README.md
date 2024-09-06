@@ -10,11 +10,11 @@ sum of heart attack risk: This card shows the total aggregated risk level relate
 sum of stress level: This card shows the total aggregated stress level related to heart attacks across the dataset.
 sum of heart rate: This card shows the total aggregated heart rate related to heart attacks across the dataset.
 
-Pie Chart:-
+pie Chart:-
 
 I created a pie chart to display the sum of exercise hours per week by diet. Ensure each slice of the pie chart is clearly labelled with the diet category and the corresponding exercise hours.
 
-Table:-
+table:-
 
 I created a table to display patient ID by age, sex, sum of cholesterol, blood pressure, and sum of smoking. The table provides a clear and organised way to view detailed data on smoking blood pressure cholesterol by patient ID. Through this table, users easily identify each patient ID-wise, check cholesterol, blood pressure, and smoking.
 
