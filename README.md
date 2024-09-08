@@ -5,29 +5,29 @@ Heart Attack Report
 
 Card:-
 
-I created cards; each card displays a single and prominent numerical value.
-sum of heart attack risk: This card shows the total aggregated risk level related to heart attacks across the dataset.
-sum of stress level: This card shows the total aggregated stress level related to heart attacks across the dataset.
-sum of heart rate: This card shows the total aggregated heart rate related to heart attacks across the dataset.
+I designed cards, each with a single and visible numerical value.
+Sum of heart attack risk: This card displays the dataset's total aggregated risk level for heart attacks.
+Stress Level Sum: This card displays the total aggregated stress level associated with heart attacks across the dataset.
+sum of heart rate: This card displays the total aggregated heart rate associated with heart attacks in the dataset.
 
 pie Chart:-
 
-I created a pie chart to display the sum of exercise hours per week by diet. Ensure each slice of the pie chart is clearly labelled with the diet category and the corresponding exercise hours.
+I designed a pie chart to show the total number of exercise hours per week per diet. Ensure that each slice of the pie chart is clearly identified with the food category and related exercise hours.
 
 table:-
 
-I created a table to display patient ID by age, sex, sum of cholesterol, blood pressure, and sum of smoking. The table provides a clear and organised way to view detailed data on smoking blood pressure cholesterol by patient ID. Through this table, users easily identify each patient ID-wise, check cholesterol, blood pressure, and smoking.
+To show the patient ID by age, sex, blood pressure, total cholesterol, and total smoking, I made a table. The table offers a simple and well-organised method to access comprehensive information on cholesterol, blood pressure, and smoking by patient ID. Users may quickly identify each patient ID and check blood pressure, cholesterol, and smoking using this table.
 
 slicer:-
 
-I created a slicer to display the country, then we check the country-wise heart attack report. A slicer for country selection is a useful tool for analysing heart attack reports on a country-by-country basis.
+We check the country-specific heart attack report after I made a slicer to show the nation. For studying heart attack reports on a per-country basis, a slicer for nation selection is a helpful resource.
 
 ribbon chart:-
 
-I created a ribbon chart to display the sum of heart attack risk and the sum of previous heart problems by patient ID. You can easily see which patient IDs have higher or lower values for heart attack risk and previous heart problems.
+I made a ribbon chart that shows the sum of heart attack risk and past cardiac problems by patient ID. You may quickly check which patient IDs have greater or lower values for heart attack risk and prior cardiac problems
 
 stacked column chart:-
 
-I created a stacked column chart to display the sum of stress levels by sex. Through this chart, identify sex-wise stress levels.
+I made a stacked column chart to show the overall stress levels broken down by sex. Determine your stress levels based on sex with this chart.
 
 
